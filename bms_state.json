@@ -1,49 +1,7 @@
 {
-  "shows": {
-    "PRHN|254045|20260730|GOLD + 3D GlassL": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "05:00 PM",
-      "date": "20260730",
-      "cat": "GOLD + 3D GlassL",
-      "price": "400.00",
-      "status": "1"
-    },
-    "PRHN|253838|20260730| EXECUTIVE + 3D Glass": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "05:25 PM",
-      "date": "20260730",
-      "cat": " EXECUTIVE + 3D Glass",
-      "price": "325.00",
-      "status": "1"
-    },
-    "PRHN|254037|20260730| EXECUTIVE + 3D Glass": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "08:15 PM",
-      "date": "20260730",
-      "cat": " EXECUTIVE + 3D Glass",
-      "price": "325.00",
-      "status": "1"
-    },
-    "PRHN|252016|20260730|GOLD + 3D GlassL": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "08:20 PM",
-      "date": "20260730",
-      "cat": "GOLD + 3D GlassL",
-      "price": "400.00",
-      "status": "0"
-    },
-    "PRHN|252019|20260730|GOLD + 3D GlassL": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "11:15 PM",
-      "date": "20260730",
-      "cat": "GOLD + 3D GlassL",
-      "price": "400.00",
-      "status": "0"
-    }
-  },
+  "shows": {},
   "dates": {
-    "20260730": "BOOKABLE",
-    "20260731": "AVAILABLE",
+    "20260731": "BOOKABLE",
     "20260801": "AVAILABLE",
     "20260802": "AVAILABLE",
     "20260803": "AVAILABLE",
